@@ -16,7 +16,7 @@
 
 ## Added skill set (1인 full stack 개발)
 ### iOS development
- + Apps : http://junhyukjin.blogspot.kr
+ + Release apps : http://junhyukjin.blogspot.kr
     + 2015.10 : GoGo
     + 2016.1 : Quick&Multi Timer
     + 2016.10 : I'm here for iMessage
