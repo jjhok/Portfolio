@@ -13,6 +13,7 @@
  + CEO 직속 미래전략TF Technical 담당
  + 사내 OA 시스템 인프라 관리 및 생산성 향상 솔루션 검토
 
+
 ## Added skill set (1인 full stack 개발)
 ### iOS development
  + Apps : http://junhyukjin.blogspot.kr
@@ -20,7 +21,7 @@
     + 2016.1 : Quick&Multi Timer
     + 2016.10 : I'm here for iMessage
     + 2017.8 : 쿠폰투게더
-  + Acquirement of technics
+  + Technics
     + Swift 
     + RxSwift(RxCocoa, RxDatasource, ..)
     + Location & Maps (Google map, apple mapkit)
@@ -38,5 +39,6 @@
     + 뉴스타파
     + friends.net
 
-### And now studing
+### And now
+  + Time capsule Project
   + Kotlin
