@@ -1,4 +1,4 @@
-## History
+## Company History
 ### 2004 ~ 2006 : web (PHP, java) developer
 ### 2006.1 ~ 2012.11 : LG CNS EA팀
  + Role : TA(Technical Architect)
