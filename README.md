@@ -33,6 +33,8 @@
     + Google Vision API
     + SNS SDK(Facebook, twitter, kakaotalk, ..)
     + major libraries(alamofire, realm, hero ..)
+  + etc
+    + Recommended APP from appstore
 
 ### Android development (very old)
   + Apps
