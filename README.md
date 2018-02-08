@@ -34,7 +34,10 @@
     + SNS SDK(Facebook, twitter, kakaotalk, ..)
     + major libraries(alamofire, realm, hero ..)
   + etc
-    + Recommended APP from appstore
+    + "I'm here for iMessage" was Recommended APP from appstore
+    
+    <img width="25%" height="25%" src="https://github.com/jjhok/Portfolio/blob/master/IMG_1656.PNG"></img>
+    <img width="25%" height="25%" src="https://github.com/jjhok/Portfolio/blob/master/IMG_1654.PNG"></img>
 
 ### Android development (very old)
   + Apps
