@@ -14,7 +14,7 @@
  + 사내 OA 시스템 인프라 관리 및 생산성 향상 솔루션 검토
 
 
-## Added skill set (1인 full stack 개발)
+## Added skill set
 ### iOS development
  + Release apps : http://junhyukjin.blogspot.kr
     + 2015.10 : GoGo
