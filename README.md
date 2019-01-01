@@ -13,9 +13,11 @@
  + 인프라 비용절감 프로젝트(전사 supex challenge 수상) 
  + CEO 직속 미래전략TF Technical 담당
  + 사내 OA 시스템 인프라 관리 및 생산성 향상 솔루션 검토
- + Attlassian 운영 HQ (JIRA, Confluence, crowd SSO)
-   + 라이선스, 정책 및 프로세스, 구성원 개발 편의 중심 운영 총괄
-   + Admin dashboard system 1인개발(by python, django, vuejs)
+ + 사내 협업도구 운영 및 개선
+   + Google G suite 운영 > MS Office 365(M365) 도입 검토
+   + Attlassian 운영 HQ (JIRA, Confluence, crowd SSO)
+     + 라이선스, 정책 및 프로세스, 구성원 개발 편의 중심 운영 총괄
+     + Admin dashboard system 1인개발(by python, django, vuejs)
  + 사내 채용 사이트 등 인트라넷 사이트 운영
 
 
