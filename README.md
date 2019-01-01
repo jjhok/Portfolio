@@ -22,9 +22,9 @@
 ## Added skill set
 
 ### Python(+django) + Vuejs / apache / CentOS / Google Cloud
- + 2018. (업무용) Confluence, JIRA admin tools
- + 2018. (업무용) auto mailing system
- + 2018. (toy project) 개인용 crawler + NAS자동화
+ + 2018.10 ~ : (업무용) Confluence, JIRA admin tools
+ + 2018.12 : (업무용) auto mailing system
+ + 2018.11 : (toy project) 개인용 crawler + NAS자동화
  
 ### iOS development
  + Release apps : http://junhyukjin.blogspot.kr
