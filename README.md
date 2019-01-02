@@ -34,7 +34,8 @@
     + 2016.1 : Quick&Multi Timer
     + 2016.10 : I'm here for iMessage
     + 2017.8 : 쿠폰투게더
-    + <img width="50%" height="50%" src="https://github.com/jjhok/Portfolio/blob/master/스크린샷 2019-01-02 오전 9.51.26.png"></img> (apple developer license 갱신 필요)
+    
+    <img width="50%" height="50%" src="https://github.com/jjhok/Portfolio/blob/master/스크린샷 2019-01-02 오전 9.51.26.png"></img> (apple developer license 갱신 필요)
   + Technics
     + Swift 
     + RxSwift(RxCocoa, RxDatasource, ..)
