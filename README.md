@@ -22,6 +22,8 @@
 ### 2019.4 ~ Now : 우아한형제들(배달의민족) IT서비스팀 developer
  + 인사정보 API 시스템 구축(Python)
  + 수사정보 조회 제공 시스템 구축(JAVA + springboot)
+ + 우아한 자산관리 시스템 고도화 구축(JAVA + springboot + Vuejs)
+ + 우아한 포털 시스템 구축(JAVA + springboot + reactjs)
 
 ## Added skill set
 
@@ -31,8 +33,15 @@
  + 2018.11 : (toy project) 개인용 crawler + NAS자동화
  + 2019.5 : (업무용) 인사정보 API 시스템 (AWS)
 
-### JAVA / Springboot
+### Backend - JAVA, kotlin / Springboot
  + 2019.11 : (업무용) 수사정보 조회 제공 시스템
+ + 2021 : (업무용) 우아한 자산 시스템
+ + 2022 : (업무용) 우아한 포털 시스템
+ 
+### Frontend - vue.js, react.js
+ + 2019.11 : (업무용) 수사정보 조회 제공 시스템
+ + 2021 : (업무용) 우아한 자산 시스템
+ + 2022 : (업무용) 우아한 포털 시스템
  
 ### Infra structure
  + DevOps
