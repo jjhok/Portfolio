@@ -19,7 +19,7 @@
      + 라이선스, 정책 및 프로세스, 구성원 개발 편의 중심 운영 총괄
      + Admin dashboard system 1인개발(python, django, vuejs)
  + 사내 채용 사이트 등 인트라넷 사이트 운영
-### 2019.4 ~ Now : 우아한형제들(배달의민족) IT서비스팀 developer
+### 2019.4 ~ Now : 우아한형제들(배달의민족) 사내프로덕트개선팀 소속 developer, tech leader
  + 인사정보 API 시스템 구축(Python)
  + 수사정보 조회 제공 시스템 구축(JAVA + springboot)
  + 우아한 자산관리 시스템 고도화 구축(JAVA + springboot + Vuejs)
