@@ -24,7 +24,9 @@
  + 수사정보 조회 제공 시스템 구축(JAVA + springboot)
  + 우아한 자산관리 시스템 고도화 구축(JAVA + springboot + Vuejs)
  + 우아한 포털 시스템 구축(JAVA + kotlin + springboot + reactjs)
-   - https://story.baemin.com
+   - https://story.baemin.com/6069/
+   - ![image](https://github.com/jjhok/Portfolio/assets/13160786/c78f02a5-6495-442f-ae0b-faaedc28c04a)
+
 
 ## Added skill set
 
