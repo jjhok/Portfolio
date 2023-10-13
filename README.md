@@ -25,6 +25,7 @@
  + 우아한 자산관리 시스템 고도화 구축(JAVA + springboot + Vuejs)
  + 우아한 포털 시스템 구축(JAVA + kotlin + springboot + reactjs)
    - https://story.baemin.com/6069/
+   - https://techblog.woowahan.com/14107/
    - ![image](https://github.com/jjhok/Portfolio/assets/13160786/c78f02a5-6495-442f-ae0b-faaedc28c04a)
 
 
