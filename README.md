@@ -27,7 +27,8 @@
    - https://story.baemin.com/6069/
    - https://techblog.woowahan.com/14107/
    - ![image](https://github.com/jjhok/Portfolio/assets/13160786/c78f02a5-6495-442f-ae0b-faaedc28c04a)
-
+ + 배민상회 백엔드 엔지니어 회원모듈 파트리딩(JAVA + springboot) 
+ + 커머스 서비스(비마트 및 배민스토어) 전시, 데이터 허브 백엔드 엔지니어 파트리딩 (JAVA + Kotlin + Springboot + gRPC)
 
 ## Added skill set
 
@@ -37,10 +38,13 @@
  + 2018.11 : (toy project) 개인용 crawler + NAS자동화
  + 2019.5 : (업무용) 인사정보 API 시스템 (AWS)
 
-### Backend - JAVA, kotlin / Springboot
+### Backend - JAVA, kotlin / Springboot / kafka
  + 2019.11 : (업무용) 수사정보 조회 제공 시스템
  + 2021 : (업무용) 우아한 자산 시스템
- + 2022 : (업무용) 우아한 포털 시스템
+ + 2022, 2023 : (업무용) 우아한 포털 시스템
+ + 2023 : 배민상회 회원 모듈
+ + 2024 : 배민 커머스(B마트, 배민스토어) 상품전시
+ + 2025 : 상품코어허브 시스템
  
 ### Frontend - vue.js, react.js
  + 2019.11 : (업무용) 수사정보 조회 제공 시스템
@@ -50,15 +54,17 @@
 ### Infra structure
  + DevOps
  + AWS
+ + Kafka
  + GCP
  + Server Engineering
 
 ### iOS development
- + Release apps : http://junhyukjin.blogspot.kr
+ + Release apps
     + 2015.10 : GoGo
     + 2016.1 : Quick&Multi Timer
     + 2016.10 : I'm here for iMessage
     + 2017.8 : 쿠폰투게더
+    + 2025.4 : AI 스마트돋보기
     
     <img width="25%" height="25%" src="https://github.com/jjhok/Portfolio/blob/master/스크린샷 2019-01-02 오전 9.51.26.png"></img> (apple developer license 갱신 필요)
   + Technics
