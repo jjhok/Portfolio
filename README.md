@@ -30,7 +30,7 @@
 ### 2023.11 ~ NOW : 우아한형제들(배달의민족) 커머스서비스실 소속 developer, tech leader
  + 배민상회 백엔드 엔지니어 회원모듈 파트리딩(JAVA + springboot) 
  + 커머스 서비스(비마트 및 배민스토어) 전시, 데이터 허브 백엔드 엔지니어 파트리딩 (JAVA + Kotlin + Springboot + gRPC)
- + AI mcp 사내 해커톤 및 개발그룹대상 발표
+ + AI mcp 사내 해커톤 진행 및 개발그룹대상 후기 발표
  + AI 툴 도입 poc champion 참여
 
 ## Added skill set
