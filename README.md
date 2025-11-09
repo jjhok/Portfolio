@@ -19,7 +19,7 @@
      + 라이선스, 정책 및 프로세스, 구성원 개발 편의 중심 운영 총괄
      + Admin dashboard system 1인개발(python, django, vuejs)
  + 사내 채용 사이트 등 인트라넷 사이트 운영
-### 2019.4 ~ Now : 우아한형제들(배달의민족) 사내프로덕트개선팀 소속 developer, tech leader
+### 2019.4 ~ 2023.10 : 우아한형제들(배달의민족) 사내프로덕트개선팀 소속 developer, tech leader
  + 인사정보 API 시스템 구축(Python)
  + 수사정보 조회 제공 시스템 구축(JAVA + springboot)
  + 우아한 자산관리 시스템 고도화 구축(JAVA + springboot + Vuejs)
@@ -27,8 +27,11 @@
    - https://story.baemin.com/6069/
    - https://techblog.woowahan.com/14107/
    - ![image](https://github.com/jjhok/Portfolio/assets/13160786/c78f02a5-6495-442f-ae0b-faaedc28c04a)
+### 2023.11 ~ NOW : 우아한형제들(배달의민족) 커머스서비스실 소속 developer, tech leader
  + 배민상회 백엔드 엔지니어 회원모듈 파트리딩(JAVA + springboot) 
  + 커머스 서비스(비마트 및 배민스토어) 전시, 데이터 허브 백엔드 엔지니어 파트리딩 (JAVA + Kotlin + Springboot + gRPC)
+ + AI mcp 사내 해커톤 및 개발그룹대상 발표
+ + AI 툴 도입 poc champion 참여
 
 ## Added skill set
 
